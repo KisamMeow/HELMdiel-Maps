@@ -7,7 +7,7 @@ To use these maps place them in your pivot folder, these maps only have HELM poi
 
 Original maps by akaden and the remapster team at https://remapster.com/.
 
-Find more information on this project at https://www.reddit.com/r/ffxi/comments/gmxv3a/introducing_the_ffxi_remapster_project/
+Find more information on that project at https://www.reddit.com/r/ffxi/comments/gmxv3a/introducing_the_ffxi_remapster_project/
 
 
 I've made these maps with GIMP and TexHammer, if you would like access to the XCF files feel free to DM me on Discord.
