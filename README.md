@@ -1,5 +1,5 @@
 # HELMdiel-Maps
-Maps for the HELM system on FFXI, specifically for the HorizonXI server. These are based on the 2048x2048 maps from remapster, downscaled to 1024 with a box filter.
+Maps for the HELM system on FFXI, specifically for the HorizonXI server. These are based on the 2048x2048 maps from remapster, downscaled to 1024x1024 with a box filter.
 
 Right now we only have some Harvesting maps, as I get more data I will make more maps. If you wish to share anything please DM Masuru on Horizon Discord.
 
