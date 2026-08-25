@@ -13,6 +13,6 @@ Thanks to the following people
 
 Chickennugger for information on Logging maps.
 
-Magnapinna for information on Excavation maps.
-
 Itmejammy for information on Mining maps.
+
+Magnapinna for information on Excavation maps.
