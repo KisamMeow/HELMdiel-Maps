@@ -9,4 +9,8 @@ Find more information on that project at https://www.reddit.com/r/ffxi/comments/
 
 I've made these maps with GIMP and TexHammer.
 
-Thanks to Chickennugger for initial map of Ghelsba Outpost Logging and to Magnapinna for initial maps of Maze of Shakhrami and Korroloka Tunnel.
+Thanks to the following people
+
+Chickennugger for information on Logging maps.
+Magnapinna for information on Excavation maps.
+Itmejammy for information on Mining maps.
