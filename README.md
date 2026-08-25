@@ -12,5 +12,7 @@ I've made these maps with GIMP and TexHammer.
 Thanks to the following people
 
 Chickennugger for information on Logging maps.
+
 Magnapinna for information on Excavation maps.
+
 Itmejammy for information on Mining maps.
