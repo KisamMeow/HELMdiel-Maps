@@ -16,3 +16,6 @@ Chickennugger for information on Logging maps.
 Itmejammy for information on Mining maps.
 
 Magnapinna for information on Excavation maps.
+
+### Known Limitations
+The Minimap plugin that is bundled with Ashita is limited in the size of maps it can load without causing fps drops. I'm looking into workarounds.
