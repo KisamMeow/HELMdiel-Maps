@@ -17,5 +17,13 @@ Itmejammy for information on Mining maps.
 
 Magnapinna for information on Excavation maps.
 
+### Coming Soon
+
+After 1.0 is finished I will work on two different updates
+
+The first will be creating an optimized map pack, meant for use with the minimap plugin if the stutter bothers you when loading new floors in multimap zones.
+
+The second will be creating an map pack that combines other map packs into HELMdiel, this one may take awhile and I don't know the scope of it yet until I do research on what raw files I can get a hold of.
+
 ### Known Limitations
 The Minimap plugin that is bundled with Ashita is limited in the size of maps it can load without causing fps drops. This generally only affects zones with multiple floors like Ifrit's Cauldron or Aydeewa Subterrane. I'm looking into workarounds.
