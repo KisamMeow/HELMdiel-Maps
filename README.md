@@ -18,4 +18,4 @@ Itmejammy for information on Mining maps.
 Magnapinna for information on Excavation maps.
 
 ### Known Limitations
-The Minimap plugin that is bundled with Ashita is limited in the size of maps it can load without causing fps drops. I'm looking into workarounds.
+The Minimap plugin that is bundled with Ashita is limited in the size of maps it can load without causing fps drops. This generally only affects zones with multiple floors like Ifrit's Cauldron or Aydeewa Subterrane. I'm looking into workarounds.
